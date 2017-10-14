@@ -1,0 +1,10 @@
+{
+    "editor.tabCompletion": true,
+    "editor.tabSize": 4,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "tslint.configFile": "./node_modules/fdp-lint-tool/config/tslint.json",
+    "typescript.tsdk": "./node_modules/typescript/lib",
+    "window.zoomLevel": 0
+}
