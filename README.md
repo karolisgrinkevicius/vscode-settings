@@ -3,7 +3,7 @@
 - [Script12 BT font](https://www.dafontfree.net/freefonts-script12-bt-f141942.htm)
 - [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
 
-### 🐖 style.css
+### 🐖 styles.css
 ```css
 .type.storage,.type.storage.declaration, .storage.class.modifier {
   font-family: 'script12-bt';
