@@ -15,23 +15,23 @@
 }
 
 .decorator.name, .decorator.punctuation:not(.block), .import.keyword {
-    font-family: 'script12-bt';
-    font-size: 1.7em;
-    color: #68f39b!important;
+  font-family: 'script12-bt';
+  font-size: 1.7em;
+  color: #68f39b!important;
 }
 .attribute-name {
-    font-family: 'script12-bt';
-    font-size: 1.5em;
+  font-family: 'script12-bt';
+  font-size: 1.5em;
 }
 
 .html.quoted.double {
-    color: #a6f3a6!important;
+  color: #a6f3a6!important;
 }
 .comment {
 	color: #c5c5fd!important;
 }
 .comment:not(.punctuation) {
-    font-family: script12-bt;
-    font-size: 1.5em;
+  font-family: script12-bt;
+  font-size: 1.5em;
 }
 ```
