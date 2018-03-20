@@ -1,6 +1,6 @@
 {
     "editor.fontFamily": "Fira Code",
-    "editor.fontSize": 14,
+    "editor.fontSize": 16,
     "editor.fontLigatures": true,
     "vscode_custom_css.imports": ["file:///Users/kgrinkevicius/Documents/coding-fonts/styles.css"],
     "editor.tabCompletion": true,
@@ -9,5 +9,5 @@
     "files.insertFinalNewline": true,
     "workbench.startupEditor": "newUntitledFile",
     "window.zoomLevel": 0,
-    "workbench.colorTheme": "Operator Mono Dark Theme"
+    "workbench.colorTheme": "Hybrid Operator"
 }
