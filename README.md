@@ -5,9 +5,8 @@
 
 ### 💅🏻 style.css
 ```css
-
 .type.storage,.type.storage.declaration, .storage.class.modifier {
-  font-family: 'flottflott';
+  font-family: 'script12-bt';
   font-size: 1.7em;
 }
 
@@ -16,12 +15,12 @@
 }
 
 .decorator.name, .decorator.punctuation:not(.block), .import.keyword {
-    font-family: 'flottflott';
+    font-family: 'script12-bt';
     font-size: 1.7em;
     color: #68f39b!important;
 }
 .attribute-name {
-    font-family: 'flottflott';
+    font-family: 'script12-bt';
     font-size: 1.5em;
 }
 
@@ -32,7 +31,7 @@
 	color: #c5c5fd!important;
 }
 .comment:not(.punctuation) {
-    font-family: flottflott;
+    font-family: script12-bt;
     font-size: 1.5em;
 }
 ```
