@@ -1,11 +1,12 @@
 ### 🐓 Prerequisites
 
-* [Hybrid Operator color theme](https://marketplace.visualstudio.com/items?itemName=poga.theme-hybrid-operator)
-* [Fira Code font](https://github.com/tonsky/FiraCode)
-* [Script12 BT font](https://www.dafontfree.net/freefonts-script12-bt-f141942.htm)
 * [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
+* [Hybrid Operator color theme](https://marketplace.visualstudio.com/items?itemName=poga.theme-hybrid-operator)
+* [Fira Code font](./fonts/FiraCode_1.205.zip)
+* [Script12 BT font](./fonts/FiraCode_1.205.zip)
 
 ### 🐖 styles.css
+<sup>**NOTE:** Store this file in the directory which path is specified in `settings.json:5`.</sup>
 
 ```css
 .type.storage,
