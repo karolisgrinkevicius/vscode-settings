@@ -6,7 +6,7 @@
 * [Script12 BT font](./fonts/FiraCode_1.205.zip)
 
 ### 🐖 styles.css
-<sup>**NOTE:** Store this file in the directory which path is specified in `settings.json:5`.</sup>
+**NOTE:** Store this file in the directory which path is specified in `settings.json:5`.
 
 ```css
 .type.storage,
