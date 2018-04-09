@@ -8,7 +8,7 @@
     "files.insertFinalNewline": true,
     "workbench.startupEditor": "newUntitledFile",
     "window.zoomLevel": 0,
-    "workbench.colorTheme": "Dark++ Italic",
+    "workbench.colorTheme": "Hybrid Operator",
     "tslint.configFile": "./config/tslint.json",
     "typescript.tsdk": "./node_modules/typescript/lib"
 }
