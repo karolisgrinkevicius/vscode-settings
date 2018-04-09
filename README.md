@@ -3,7 +3,7 @@
 * [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
 * [Hybrid Operator color theme](https://marketplace.visualstudio.com/items?itemName=poga.theme-hybrid-operator)
 * [Fira Code font](./fonts/FiraCode_1.205.zip)
-* [Script12 BT font](./fonts/FiraCode_1.205.zip)
+* [Script12 BT font](./fonts/script12-bt.zip)
 
 ### 🐖 styles.css
 **NOTE:** Store this file in the directory which path is specified in `settings.json:5`.
