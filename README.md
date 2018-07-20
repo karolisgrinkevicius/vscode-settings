@@ -13,3 +13,5 @@
   font-stretch: ultra-condensed;
 }
 ```
+
+- Restart VSCode
