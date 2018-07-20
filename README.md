@@ -14,4 +14,4 @@
 }
 ```
 
-- Restart VSCode
+- Restart VSCode dismissing the warning notification
