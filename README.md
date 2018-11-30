@@ -6,12 +6,7 @@
 - Prepend CSS bellow right after the comment
 
 ```css
-.mtki,
-.mtk13 {
-  font-style: italic;
-  font-size: 1.13em;
-  font-stretch: ultra-condensed;
-}
+.mtki, .mtk13 {font-style: italic; font-size: 1.13em; font-stretch: ultra-condensed;}
 ```
 
 - Restart VSCode dismissing the warning notification
