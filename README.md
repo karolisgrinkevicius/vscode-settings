@@ -4,7 +4,7 @@
 
 #### Prerequisites
 - [FiraFlott](https://github.com/kosimst/FiraFlott/blob/master/TTF/FiraFlott%20FiraCode%20(Medium).ttf) font
-- [Script12 BT](https://www.wfonts.com/font/script12-bt) font
+- [Fira Code iScript Italic](https://github.com/kencrocken/FiraCodeiScript/blob/master/FiraCodeiScript-Italic.ttf) font
 
 #### Setup
 - Install and activate [Oceanic Next Italic](https://marketplace.visualstudio.com/items?itemName=SintrumIT.theme-oceanic-next-italic) theme
