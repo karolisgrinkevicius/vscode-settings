@@ -1,22 +1,31 @@
 {
-    "editor.fontFamily": "Fira Code iScript",
+    "editor.fontFamily": "FiraFlott",
     "editor.fontSize": 16,
     "editor.fontLigatures": true,
-    "editor.tabCompletion": true,
+    "editor.tabCompletion": "onlySnippets",
     "editor.tabSize": 2,
     "prettier.singleQuote": true,
-    "prettier.eslintIntegration": true,
     "prettier.tabWidth": 2,
-    "editor.formatOnSave": true,
+    "prettier.stylelintIntegration": true,
     "files.trimTrailingWhitespace": true,
     "files.insertFinalNewline": true,
     "workbench.startupEditor": "newUntitledFile",
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.showTabs": true,
+    "workbench.colorTheme": "Oceanic Next Italic",
     "window.zoomLevel": 0,
-    "tslint.configFile": "./config/tslint.json",
+    "tslint.configFile": "./tslint.json",
     "typescript.tsdk": "./node_modules/typescript/lib",
     "emmet.triggerExpansionOnTab": true,
     "emmet.includeLanguages": {
-        "javascript": "javascriptreact"
+      "javascript": "javascriptreact"
     },
-    "workbench.colorTheme": "Oceanic Next Italic - White",
-}
+    "typescript.updateImportsOnFileMove.enabled": "never",
+    "javascript.validate.enable": false,
+    "editor.formatOnSave": false,
+    "workbench.settings.editor": "json",
+    "workbench.iconTheme": "vscode-icons",
+    "auto-close-tag.SublimeText3Mode": true,
+    "editor.multiCursorModifier": "ctrlCmd"
+  }
