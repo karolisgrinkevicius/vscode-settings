@@ -16,7 +16,13 @@
   "editor.fontLigatures": true
 }
 ```
-- Open `/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/out/vs/workbench/workbench.main.css`
+
+Open workbench css file to customise it:
+
+```sh
+code /Applications/Visual\ Studio\ Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.css
+```
+
 - Prepend CSS bellow right after the comment
 
 ```css
