@@ -26,7 +26,7 @@ code /Applications/Visual\ Studio\ Code.app/Contents/Resources/app/out/vs/workbe
 - Prepend CSS bellow right after the comment
 
 ```css
-.mtki,.mtk13{font-family:'Fira Code iScript';font-style:italic;font-size:1.17em;font-stretch:ultra-condensed;}
+.mtki,.mtk4,.mtk13{font-family:'Fira Code iScript';font-style:italic;font-size:1.17em;font-stretch:ultra-condensed;}
 ```
 
 - Restart VSCode dismissing the warning about broken setup
