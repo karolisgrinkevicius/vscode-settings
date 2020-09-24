@@ -1,0 +1,73 @@
+{
+  "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
+  "editor.smoothScrolling": true,
+  "editor.cursorBlinking": "phase",
+  "editor.cursorSmoothCaretAnimation": true,
+  // minimap widget
+  "editor.minimap.renderCharacters": false,
+  "editor.renderWhitespace": "none",
+  "editor.minimap.maxColumn": 200,
+  "editor.minimap.showSlider": "always",
+  // font
+  "editor.fontFamily": "OperatorMonoLig-Book",
+  "editor.fontWeight": "500",
+  "editor.fontSize": 16,
+  "editor.fontLigatures": true,
+  "editor.tabCompletion": "onlySnippets",
+  "editor.tabSize": 2,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.exclude": {
+    "node_modules/": false
+  },
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.showTabs": true,
+  "workbench.colorTheme": "Oceanic Next Italic - White",
+  "window.zoomLevel": 0,
+  "tslint.configFile": "./tslint.json",
+  "typescript.tsdk": "./node_modules/typescript/lib",
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "javascript.validate.enable": false,
+  "workbench.settings.editor": "json",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "merge-conflict.diffViewPosition": "Current",
+  "breadcrumbs.enabled": false,
+  "vsicons.dontShowNewVersionMessage": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.formatOnSaveMode": "modifications",
+  "[markdown]": {
+    "editor.formatOnSave": false
+  },
+  "[mdx]": {
+    "editor.formatOnSave": false
+  },
+  "[v]": {
+    "editor.formatOnSave": false
+  },
+  "workbench.iconTheme": "vscode-icons",
+  "php.suggest.basic": false,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.tsserver.log": "verbose"
+}
