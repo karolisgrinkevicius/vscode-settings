@@ -1,4 +1,4 @@
-### 💅 Theme
+# 💅 Theme
 
 ## Operator Mono
 
