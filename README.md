@@ -6,7 +6,7 @@
 
 #### Prerequisites
 
-- [Operator Mono](https://www.typography.com/blog/introducing-operator) font
+- 💶 &nbsp;[Operator Mono](https://www.typography.com/blog/introducing-operator) font
 
 #### Setup
 
